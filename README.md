@@ -10,7 +10,7 @@
 
 ## Link  
 
-[Click here](https://drive.google.com/file/d/1FwqroNl6k0kIALQqgvT6Fs2nXxeJ-ZC4/view) to view the deployed app in Heroku.   
+[Click here](https://text-edit-this.herokuapp.com/) to view the deployed app in Heroku.   
 
 ## Description  
 
